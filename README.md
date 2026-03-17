@@ -1,8 +1,6 @@
 # 📚 Dự Án C++: Cấu Trúc Dữ Liệu và Giải Thuật
 
 > **Giáo trình:** Cấu trúc dữ liệu và Giải thuật  
-> **Trường:** Cao đẳng Công Thương TP. HCM  
-> **Tác giả:** ThS. Trần Anh Khoa & ThS. Hồ Diên Lợi  
 > **Ngôn ngữ:** C++17
 
 ---
@@ -322,8 +320,44 @@ obj/
 ## 📝 Ghi Chú
 - Tất cả code sử dụng **tiếng Việt không dấu** trong tên hàm/biến để tránh lỗi encoding
 - Mỗi file có thể biên dịch **độc lập**, không phụ thuộc nhau
+
 - Các hàm đặt tên theo phong cách **giáo trình** (`HoanVi`, `ThemDau`, `XoaCuoi`, ...)
 
+- Các hàm đặt tên theo phong cách **giáo trình** (HoanVi, ThemDau, XoaCuoi, ...)
 ---
 
-*Dự án được xây dựng từ giáo trình Cấu trúc dữ liệu và Giải thuật - CDCTTP.HCM 2025*
+## 📌 Quy Trình Fork và Nộp Bài
+
+### Huong dan nop bai DSALab
+
+Huong dan nop bai DSALab
+
+1. Vao repo goc:
+   https://github.com/CocAgent/DSALab
+
+2. Nhan Fork de tao repo rieng
+
+3. Clone repo fork ve may
+
+4. Lam bai dung thu muc duoc yeu cau
+
+5. Day bai len GitHub ca nhan bang cac lenh:
+
+   git add .
+   git commit -m "Hoan thanh bai tap tuan 1"
+   git push origin main
+
+6. Nop bai bang mot trong hai cach:
+   - Tao Pull Request ve repo goc
+   - Hoac gui link repo fork len he thong hoc tap
+
+   Neu nop bang Pull Request, dat tieu de theo mau:
+   [MSSV] - [Ho ten] - Bai tap tuan X
+----
+Ví dụ:
+1. git clone https://github.com/nguyenvana/DSALab.git
+2. cd DSALab
+3. git add .
+4. git commit -m "Hoan thanh bai tap tuan 1"
+5. git push origin main
+---
